@@ -12,7 +12,7 @@ url:                   https://modoomaker.github.io
 # Use the empty string '' otherwise.
 # For GitHub project sites, this is usually the name of the project,
 # e.g. `/hydejack`.
-baseurl:               '/blog'
+baseurl:               ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
@@ -28,7 +28,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  "판교고등학교 모두의 만든이".
+  판교고등학교 모두의 만든이
 
 # A list of keywords for your blog
 keywords:              []
@@ -47,14 +47,14 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Hydejack
-    url:               /hydejack/
-  - title:             Hyde
-    url:               /hyde/
-  - title:             Documentation
-    url:               /docs/
   - title:             About
     url:               /about/
+  - title:             Plan
+    url:               /plan/
+  - title:             Documentation
+    url:               /docs/
+  - title:             Apply
+    url:               /apply/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -79,7 +79,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar.png
+accent_image:          /assets/img/sidebar.jpg
 accent_color:          rgb(40,57,64)
 
 # This is used for the `theme-color` meta tag,
