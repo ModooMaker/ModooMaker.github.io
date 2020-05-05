@@ -346,7 +346,7 @@ post_copyright:
 #   image: url-of-image   - Images's url
 custom_logo:
   enabled: true
-  image: logo_white.png
+  image: https://github.com/ModooMaker/ModooMaker.github.io/blob/master/logo_white.png?raw=true
 
 
 # Code Highlight theme
