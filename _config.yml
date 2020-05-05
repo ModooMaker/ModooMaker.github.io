@@ -168,39 +168,39 @@ font:
   enable: true
 
   # Uri of fonts host. E.g. //fonts.googleapis.com (Default)
-  host:
+  host: fonts.google.com/specimen/Nanum+Gothic+Coding
 
   # Global font settings used on <body> element.
   global:
     # external: true will load this font family from host.
     external: true
-    family: Lato
+    family: Regular 400
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
   # Fallback to `global` font settings.
   headings:
     external: true
-    family:
+    family: Bold 700
 
   # Font settings for posts
   # Fallback to `global` font settings.
   posts:
     external: true
-    family:
+    family: Regular 400
 
   # Font settings for Logo
   # Fallback to `global` font settings.
   # The `size` option use `px` as unit
   logo:
     external: true
-    family:
-    size:
+    family: Bold 700
+    size: 20px
 
   # Font settings for <code> and code blocks.
   codes:
     external: true
-    family:
-    size:
+    family: Regular 400
+    size: 12px
 
 
 
